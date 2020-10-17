@@ -1,4 +1,3 @@
-.vscode/settings.json
-Shape Calculator/.replit
-Shape Calculator/__pycache__/test_module.cpython-38.pyc
-Shape Calculator/__pycache__/shape_calculator.cpython-38.pyc
+.vscode/*
+.replit
+/__pycache__/*
